@@ -1,4 +1,4 @@
-# 🧠 Data Analysis Project - Sales Dashboard
+# 🧠 Restaurant sales analysis - Sales Dashboard
 
 This project focuses on analyzing sales data using **Python** (Pandas, Matplotlib, Seaborn) and visualizing insights using **Power BI**.
 
@@ -21,15 +21,9 @@ This project focuses on analyzing sales data using **Python** (Pandas, Matplotli
 - Build an interactive dashboard to communicate findings.
 
 ## 📸 Power BI Preview
-<img src="Screenshot (792).png" width="500"/>
+![Dashboard Screenshot](reports/dashboard1.png)
+
+![Dashboard Screenshot](reports/dashboard2.png)
 
 
-## 🚀 How to Run
-1. Clone the repo
-2. Install requirements: `pip install -r requirements.txt`
-3. Open the Jupyter notebook and run cells
-4. Open `.pbix` file in Power BI to explore the dashboard
 
----
-
-🔍 **Interested in more projects like this?** Connect with me on [LinkedIn](your-link)!
